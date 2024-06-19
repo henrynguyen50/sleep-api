@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sleep-api/static/css/main.1658c198.css",
+    "main.js": "/sleep-api/static/js/main.cbbaedd9.js",
+    "static/js/453.4e632631.chunk.js": "/sleep-api/static/js/453.4e632631.chunk.js",
+    "index.html": "/sleep-api/index.html",
+    "main.1658c198.css.map": "/sleep-api/static/css/main.1658c198.css.map",
+    "main.cbbaedd9.js.map": "/sleep-api/static/js/main.cbbaedd9.js.map",
+    "453.4e632631.chunk.js.map": "/sleep-api/static/js/453.4e632631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1658c198.css",
+    "static/js/main.cbbaedd9.js"
+  ]
+}
